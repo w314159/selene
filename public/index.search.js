@@ -56,6 +56,14 @@ var relearn_search_index = [
     "uri": "/selene/astronomy/eclipse/eclipse_info/index.html"
   },
   {
+    "breadcrumb": "",
+    "content": "夜 空 里 那 些 既 远 又 近 的 星 星\n月夜 Moonlight\n木遥的窗子\nMatrix67: The Aha Moments\n卢昌海个人主页\n阮一峰的网络日志\n",
+    "description": "",
+    "tags": null,
+    "title": "网夜星光",
+    "uri": "/selene/stars/index.html"
+  },
+  {
     "breadcrumb": "Astronomy",
     "content": "About James Webb Space Telescope (JWST)\n",
     "description": "",
