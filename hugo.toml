@@ -1,0 +1,24 @@
+baseURL = 'https://w314159.github.io/selene/'
+languageCode = 'en-us'
+title = 'old times, new beginning'
+
+# Change the default theme to be use when building the site with Hugo
+theme = "hugo-theme-relearn"
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "SEARCH"]
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+  [[params.themeVariant]]
+    identifier = "zen-auto"
+    name = "Zen Dark/Light"
+    auto = ["zen-dark", "zen-light"]
+  [[params.themeVariant]]
+    identifier = "zen-dark"
+  [[params.themeVariant]]
+    identifier = "zen-light"

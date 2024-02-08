@@ -1,0 +1,25 @@
++++
+title = '日月食信息'
+date = 2024-02-07T22:21:23-05:00
++++
+
+一些有用的日月食数据网站：
+
+<a href="https://www.greatamericaneclipse.com/april-8-2024" target="_blank" rel="noopener noreferrer">2024年4月8日的美国日全食</a>
+
+<a href="https://eclipsewise.com/eclipse.html" target="_blank" rel="noopener noreferrer">EclipseWise - Solar and Lunar Eclipses</a>
+
+<a href="http://xjubier.free.fr/en/site_pages/SolarEclipsesGoogleMaps.html" target="_blank" rel="noopener noreferrer">Solar Eclipses - Interactive Google Maps - Xavier Jubier (free.fr)</a>
+
+<a href="http://xjubier.free.fr/en/site_pages/solar_eclipses/5MCSE/xSE_Five_Millennium_Canon.html" target="_blank" rel="noopener noreferrer">Five Millennium Canon of Solar Eclipses: -1999 to +3000 - Xavier Jubier - Fred Espenak - Jean Meeus (free.fr)</a>
+
+<a href="https://solarsystem.nasa.gov/eclipses/home/" target="_blank" rel="noopener noreferrer">Eclipses Home | Eclipses – NASA Solar System Exploration</a>
+
+<a href="https://www.nasa.gov/eclipse" target="_blank" rel="noopener noreferrer">Eclipses and Transits | NASA</a>
+
+<a href="https://eclipse.gsfc.nasa.gov/SEpubs/5MCLE.html" target="_blank" rel="noopener noreferrer">Five Millennium Canon of Lunar Eclipses: -1999 to +3000 (nasa.gov)</a>
+
+<a href="https://eclipse.gsfc.nasa.gov/SEcat5/SEcatalog.html" target="_blank" rel="noopener noreferrer">NASA - Five Millennium Catalog of Solar Eclipses</a>
+
+<a href="https://www.greatamericaneclipse.com/2023-apr-20" target="_blank" rel="noopener noreferrer">2023-04-20 日全环食</a>
+

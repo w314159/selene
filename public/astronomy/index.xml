@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astronomy on old times, new beginning</title>
+    <link>https://w314159.github.io/selene/astronomy/index.html</link>
+    <description>Recent content in Astronomy on old times, new beginning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Feb 2024 22:21:34 -0500</lastBuildDate>
+    <atom:link href="https://w314159.github.io/selene/astronomy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JWST</title>
+      <link>https://w314159.github.io/selene/astronomy/jwst/index.html</link>
+      <pubDate>Wed, 07 Feb 2024 22:16:59 -0500</pubDate>
+      <guid>https://w314159.github.io/selene/astronomy/jwst/index.html</guid>
+      <description>About James Webb Space Telescope (JWST)</description>
+    </item>
+    <item>
+      <title>Eclipse</title>
+      <link>https://w314159.github.io/selene/astronomy/eclipse/index.html</link>
+      <pubDate>Wed, 07 Feb 2024 22:16:47 -0500</pubDate>
+      <guid>https://w314159.github.io/selene/astronomy/eclipse/index.html</guid>
+      <description>About solar and lunar eclipse</description>
+    </item>
+  </channel>
+</rss>
