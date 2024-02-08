@@ -1,6 +1,6 @@
 baseURL = 'https://w314159.github.io/selene/'
 languageCode = 'en-us'
-title = 'old times, new beginning'
+title = 'SEA OF TIME'
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-relearn"
