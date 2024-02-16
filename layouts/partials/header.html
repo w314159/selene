@@ -76,8 +76,11 @@
       body {
         font-family: "LXGW WenKai Screen", sans-serif;
       }
-    </style>
 
+      h1, h2, h3, h4, h5, h6 {
+        font-family: "LXGW WenKai Screen", sans-serif;
+      }
+    </style>
   </head>
   <body class="mobile-support {{ $outputFormat }}{{- if .Site.Params.disableInlineCopyToClipBoard }} disableInlineCopyToClipboard{{ end }}{{- if .Site.Params.disableHoverBlockCopyToClipBoard }} disableHoverBlockCopyToClipBoard{{ end }}" data-url="{{ partial "relLangPrettyUglyURL.hugo" (dict "to" .) }}">
     <div id="R-body" class="default-animation">
