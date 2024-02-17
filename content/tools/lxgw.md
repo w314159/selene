@@ -31,7 +31,7 @@ date = 2024-02-17T11:38:11-05:00
 **用Macbook Chrome浏览有问题的（7）：<br>**
 惫恳赘杖耸漾盏<br>
 <br>
-**用Macbook Edge浏览有问题的（12）：<br>**
+**用Macbook Edge浏览有问题的（7）：<br>**
 戛愣缥缈缰釵罄<br>
 <br>
 ### **网站B（本网站）Local:<br>**
