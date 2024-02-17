@@ -4,6 +4,7 @@ date = 2024-02-17T11:38:11-05:00
 +++
 
 ## **LXGW-Wenkai Screen问题字形测试**
+![字体测试](/selene/images/lxgw_test_more.jpg)
 ### **网站A online:<br>**
 **用iPhone浏览有问题的（47）：<br>**
 吾坎哑仲耶肺戛愣斥叙<br>
@@ -22,8 +23,7 @@ date = 2024-02-17T11:38:11-05:00
 **用Macbook Edge浏览有问题的（5）：<br>**
 缥缈缰釵罄<br>
 ### **网站B（本网站）online:<br>**
-**用iPhone浏览有问题的（4）：<br>**
-缥缈缰罄<br>
+**用iPhone浏览有问题的（0）：<br>**
 <br>
 **用Macbook Safari浏览有问题的（7）<br>**
 戛愣缥缈缰釵罄<br>
@@ -33,7 +33,6 @@ date = 2024-02-17T11:38:11-05:00
 <br>
 **用Macbook Edge浏览有问题的（7）：<br>**
 戛愣缥缈缰釵罄<br>
-<br>
 ### **网站B（本网站）Local:<br>**
 **用Macbook Safari浏览有问题的（0）<br>**
 <br>
