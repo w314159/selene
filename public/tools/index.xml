@@ -9,11 +9,11 @@
     <lastBuildDate>Sat, 17 Feb 2024 11:38:11 -0500</lastBuildDate>
     <atom:link href="https://w314159.github.io/selene/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>字体测试</title>
+      <title>字体测试结果</title>
       <link>https://w314159.github.io/selene/tools/lxgw/index.html</link>
       <pubDate>Sat, 17 Feb 2024 11:38:11 -0500</pubDate>
       <guid>https://w314159.github.io/selene/tools/lxgw/index.html</guid>
-      <description>LXGW-Wenkai Screen问题字形测试 网站A online:
+      <description>LXGW-Wenkai Screen问题字形测试 用手机浏览网站A，发现了47个字有问题，于是做了更大一点范围的测试。 吾坎哑仲耶肺戛愣斥叙 喘宙咒缥缈缰惫逻哀掩 萧缅恳釵恰霾茫谊赘泊 杖澜耸敲峡澄鲸艰贩煎 漾祈伞愁裹罄盏 网站A online:
 用iPhone浏览有问题的（47）：
 吾坎哑仲耶肺戛愣斥叙
 喘宙咒缥缈缰惫逻哀掩
@@ -42,7 +42,7 @@
 缥缈缰惫恳釵赘杖耸漾
 罄盏
 网站B（本网站）1.7.0 online:
-用iPhone浏览有问题的（11）「不稳定，一次为0，一次为11」：
+用iPhone浏览有问题的（11）「不稳定，三次为0，一次为11」：
 缥缈缰惫恳赘杖耸漾罄
 盏
 用Macbook Safari浏览有问题的（0）
