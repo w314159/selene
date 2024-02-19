@@ -113,6 +113,10 @@
         font-size: 16px; /* Least important titles */
       }
     </style>
+    
+    {{ $styles := resources.Get "styles.scss" | toCSS }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" type="text/css">
+
   </head>
   <body class="mobile-support {{ $outputFormat }}{{- if .Site.Params.disableInlineCopyToClipBoard }} disableInlineCopyToClipboard{{ end }}{{- if .Site.Params.disableHoverBlockCopyToClipBoard }} disableHoverBlockCopyToClipBoard{{ end }}" data-url="{{ partial "relLangPrettyUglyURL.hugo" (dict "to" .) }}">
     <div id="R-body" class="default-animation">
