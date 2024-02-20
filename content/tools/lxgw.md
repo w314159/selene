@@ -3,7 +3,7 @@ title = '霞鹜文楷字体测试结果'
 date = 2024-02-17T11:38:11-05:00
 +++
 
-![字体测试](/selene/images/lxgw_subset_test.jpg)<br>
+![字体测试](/selene/images/lxgw_subset_test2.jpg)<br>
 ## 样本：lxgw-wenkai Screen webfont含有汉字的87个subsets<br>
 ss006:更金郎來老路論便不數<br>
 ss021:龃龅龆龇龈龉龊龋龌龍<br>
