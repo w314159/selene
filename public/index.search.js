@@ -164,8 +164,8 @@ var relearn_search_index = [
     "content": "历年来，在MSN、太傻、天之文、wordpress、FB、微博、微信、notion、推特多少不同地留有各种图文。其中还能找到的并有保留价值的，我会把它们逐渐集中到这里，分门别类，必要时修正、加注、改写，或扩写、重写。在我关注的方向上，会继续生长发展。\n这是2009-2014写的一个博客：生命的喷泉\n",
     "description": "",
     "tags": null,
-    "title": "旧文",
-    "uri": "/selene/%E6%97%A7%E6%96%87/index.html"
+    "title": "关于旧文整理",
+    "uri": "/selene/%E5%85%B3%E4%BA%8E%E6%97%A7%E6%96%87%E6%95%B4%E7%90%86/index.html"
   },
   {
     "breadcrumb": "",
