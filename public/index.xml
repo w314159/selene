@@ -6,7 +6,7 @@
     <description>Recent content on SEA OF TIME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2024 21:07:43 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 16:34:42 -0500</lastBuildDate>
     <atom:link href="https://w314159.github.io/selene/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>天文</title>
@@ -30,6 +30,13 @@
       <description>我写过一个系列的普罗旺斯故事，其中包含美术史、天文考证、地理考证、文学和流行文化，很难归于一类，索性单独开一个系列。</description>
     </item>
     <item>
+      <title>多媒体之窗</title>
+      <link>https://w314159.github.io/selene/%E5%A4%9A%E5%AA%92%E4%BD%93%E4%B9%8B%E7%AA%97/index.html</link>
+      <pubDate>Mon, 04 Mar 2024 16:31:46 -0500</pubDate>
+      <guid>https://w314159.github.io/selene/%E5%A4%9A%E5%AA%92%E4%BD%93%E4%B9%8B%E7%AA%97/index.html</guid>
+      <description>一些新老多媒体内容，会从这里链接到老的wordpress博客</description>
+    </item>
+    <item>
       <title>网夜星光</title>
       <link>https://w314159.github.io/selene/%E7%BD%91%E5%A4%9C%E6%98%9F%E5%85%89/index.html</link>
       <pubDate>Wed, 07 Feb 2024 22:21:23 -0500</pubDate>
@@ -47,7 +54,7 @@ Matrix67: The Aha Moments
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://w314159.github.io/selene/%E5%85%B3%E4%BA%8E%E6%97%A7%E6%96%87%E6%95%B4%E7%90%86/index.html</guid>
       <description>历年来，在MSN、太傻、天之文、wordpress、FB、微博、微信、notion、推特多少不同地留有各种图文。其中还能找到的并有保留价值的，我会把它们逐渐集中到这里，分门别类，必要时修正、加注、改写，或扩写、重写。在我关注的方向上，会继续生长发展。
-这是2009-2014写的一个博客：生命的喷泉</description>
+这是2009-2014写的一个博客：生命的喷泉 我会逐渐把一些意义不大的内容关闭，有保留价值的，会在内容转移到新的blog后，将原博文关闭。这个wordpress博客的多媒体功能强一些，暂时重新利用作为多媒体内容的后备。</description>
     </item>
     <item>
       <title>工具</title>
