@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse on SEA OF TIME</title>
+    <link>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/eclipse/index.html</link>
+    <description>Recent content in Eclipse on SEA OF TIME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Feb 2024 22:16:47 -0500</lastBuildDate>
+    <atom:link href="https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/eclipse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日月食信息</title>
+      <link>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/eclipse/eclipse_info/index.html</link>
+      <pubDate>Wed, 07 Feb 2024 22:21:23 -0500</pubDate>
+      <guid>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/eclipse/eclipse_info/index.html</guid>
+      <description>一些有用的日月食数据网站：
+2024年4月8日的美国日全食
+EclipseWise - Solar and Lunar Eclipses
+Solar Eclipses - Interactive Google Maps - Xavier Jubier (free.fr)
+Five Millennium Canon of Solar Eclipses: -1999 to +3000 - Xavier Jubier - Fred Espenak - Jean Meeus (free.fr)
+Eclipses Home | Eclipses – NASA Solar System Exploration
+Eclipses and Transits | NASA
+Five Millennium Canon of Lunar Eclipses: -1999 to +3000 (nasa.gov)
+NASA - Five Millennium Catalog of Solar Eclipses
+2023-04-20 日全环食</description>
+    </item>
+  </channel>
+</rss>

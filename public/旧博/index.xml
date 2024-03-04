@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>旧博 on SEA OF TIME</title>
+    <link>https://w314159.github.io/selene/%E6%97%A7%E5%8D%9A/index.html</link>
+    <description>Recent content in 旧博 on SEA OF TIME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Feb 2024 22:33:42 -0500</lastBuildDate>
+    <atom:link href="https://w314159.github.io/selene/%E6%97%A7%E5%8D%9A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2009-2014年写的博客</title>
+      <link>https://w314159.github.io/selene/%E6%97%A7%E5%8D%9A/old_blog/index.html</link>
+      <pubDate>Wed, 07 Feb 2024 22:33:42 -0500</pubDate>
+      <guid>https://w314159.github.io/selene/%E6%97%A7%E5%8D%9A/old_blog/index.html</guid>
+      <description>生命的喷泉</description>
+    </item>
+  </channel>
+</rss>

@@ -17,7 +17,7 @@
     <lastmod>2024-02-28T16:59:42-05:00</lastmod>
   </url>
   <url>
-    <loc>https://w314159.github.io/selene/astronomy/index.html</loc>
+    <loc>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/index.html</loc>
     <lastmod>2024-02-07T22:21:34-05:00</lastmod>
   </url>
   <url>
@@ -37,12 +37,16 @@
     <lastmod>2024-02-29T14:32:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://w314159.github.io/selene/old_records/index.html</loc>
-    <lastmod>2024-02-07T22:33:42-05:00</lastmod>
+    <loc>https://w314159.github.io/selene/%E6%96%87%E5%AD%A6%E4%B8%96%E7%95%8C/index.html</loc>
+    <lastmod>2024-02-28T16:58:42-05:00</lastmod>
   </url>
   <url>
     <loc>https://w314159.github.io/selene/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF%E6%95%85%E4%BA%8B/%E5%8F%A6%E4%B8%80%E4%B8%AA%E7%89%A7%E7%BE%8A%E4%BA%BA/index.html</loc>
     <lastmod>2024-03-02T21:07:01-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://w314159.github.io/selene/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF%E6%95%85%E4%BA%8B/index.html</loc>
+    <lastmod>2024-03-02T21:05:23-05:00</lastmod>
   </url>
   <url>
     <loc>https://w314159.github.io/selene/%E6%96%87%E5%AD%A6%E4%B8%96%E7%95%8C/%E6%B3%B0%E6%88%88%E5%B0%94/%E5%A4%A7%E5%9C%B0%E7%9A%84%E6%B3%AA%E7%82%B9/index.html</loc>
@@ -51,10 +55,6 @@
   <url>
     <loc>https://w314159.github.io/selene/%E6%96%87%E5%AD%A6%E4%B8%96%E7%95%8C/%E6%9C%A8%E5%BF%83/%E8%BF%98%E5%8E%9F%E6%9C%A8%E5%BF%83%E8%81%86%E5%90%AC%E6%A2%85%E7%BA%BD%E5%9B%A0/index.html</loc>
     <lastmod>2024-02-29T17:35:10-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://w314159.github.io/selene/tools/index.html</loc>
-    <lastmod>2024-02-17T17:09:08-05:00</lastmod>
   </url>
   <url>
     <loc>https://w314159.github.io/selene/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF%E6%95%85%E4%BA%8B/%E5%B1%B1%E5%B1%85%E5%B2%81%E6%9C%88/index.html</loc>
@@ -77,51 +77,46 @@
     <lastmod>2024-02-28T16:58:42-05:00</lastmod>
   </url>
   <url>
-    <loc>https://w314159.github.io/selene/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF%E6%95%85%E4%BA%8B/index.html</loc>
-    <lastmod>2024-03-02T21:05:23-05:00</lastmod>
+    <loc>https://w314159.github.io/selene/%E7%BD%91%E5%A4%9C%E6%98%9F%E5%85%89/index.html</loc>
+    <lastmod>2024-02-07T22:21:23-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://w314159.github.io/selene/%E6%97%A7%E6%96%87/index.html</loc>
+  </url>
+  <url>
+    <loc>https://w314159.github.io/selene/%E5%B7%A5%E5%85%B7/index.html</loc>
+    <lastmod>2024-02-17T17:09:08-05:00</lastmod>
   </url>
   <url>
     <loc>https://w314159.github.io/selene/%E6%96%87%E5%AD%A6%E4%B8%96%E7%95%8C/%E5%BA%9E%E5%BE%B7%E5%9C%A8%E5%9C%B0%E9%93%81%E7%AB%99%E7%9A%84%E7%BF%BB%E8%AF%91%E9%97%AE%E9%A2%98/index.html</loc>
     <lastmod>2024-03-01T16:07:33-05:00</lastmod>
   </url>
   <url>
-    <loc>https://w314159.github.io/selene/%E6%96%87%E5%AD%A6%E4%B8%96%E7%95%8C/index.html</loc>
-    <lastmod>2024-02-28T16:58:42-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://w314159.github.io/selene/tools/gb_2312_6763/index.html</loc>
+    <loc>https://w314159.github.io/selene/%E5%B7%A5%E5%85%B7/gb_2312_6763/index.html</loc>
     <lastmod>2024-02-17T17:09:08-05:00</lastmod>
   </url>
   <url>
-    <loc>https://w314159.github.io/selene/tools/lxgw/index.html</loc>
+    <loc>https://w314159.github.io/selene/%E5%B7%A5%E5%85%B7/lxgw/index.html</loc>
     <lastmod>2024-02-17T11:38:11-05:00</lastmod>
   </url>
   <url>
-    <loc>https://w314159.github.io/selene/tools/gfw_test/index.html</loc>
+    <loc>https://w314159.github.io/selene/%E5%B7%A5%E5%85%B7/gfw_test/index.html</loc>
     <lastmod>2024-02-07T22:33:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://w314159.github.io/selene/old_records/old_blog/index.html</loc>
-    <lastmod>2024-02-07T22:33:42-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://w314159.github.io/selene/astronomy/jwst/jwst_image_test/index.html</loc>
+    <loc>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/jwst/jwst_image_test/index.html</loc>
     <lastmod>2024-02-07T22:21:34-05:00</lastmod>
   </url>
   <url>
-    <loc>https://w314159.github.io/selene/astronomy/eclipse/eclipse_info/index.html</loc>
+    <loc>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/eclipse/eclipse_info/index.html</loc>
     <lastmod>2024-02-07T22:21:23-05:00</lastmod>
   </url>
   <url>
-    <loc>https://w314159.github.io/selene/stars/index.html</loc>
-    <lastmod>2024-02-07T22:21:23-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://w314159.github.io/selene/astronomy/jwst/index.html</loc>
+    <loc>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/jwst/index.html</loc>
     <lastmod>2024-02-07T22:16:59-05:00</lastmod>
   </url>
   <url>
-    <loc>https://w314159.github.io/selene/astronomy/eclipse/index.html</loc>
+    <loc>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/eclipse/index.html</loc>
     <lastmod>2024-02-07T22:16:47-05:00</lastmod>
   </url>
   <url>

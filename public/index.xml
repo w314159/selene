@@ -9,32 +9,11 @@
     <lastBuildDate>Sat, 02 Mar 2024 21:07:43 -0500</lastBuildDate>
     <atom:link href="https://w314159.github.io/selene/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Astronomy</title>
-      <link>https://w314159.github.io/selene/astronomy/index.html</link>
+      <title>天文</title>
+      <link>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/index.html</link>
       <pubDate>Wed, 07 Feb 2024 22:21:34 -0500</pubDate>
-      <guid>https://w314159.github.io/selene/astronomy/index.html</guid>
+      <guid>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/index.html</guid>
       <description>Everything about astronomy</description>
-    </item>
-    <item>
-      <title>Old_records</title>
-      <link>https://w314159.github.io/selene/old_records/index.html</link>
-      <pubDate>Wed, 07 Feb 2024 22:33:42 -0500</pubDate>
-      <guid>https://w314159.github.io/selene/old_records/index.html</guid>
-      <description>旧时光的足迹</description>
-    </item>
-    <item>
-      <title>Tools</title>
-      <link>https://w314159.github.io/selene/tools/index.html</link>
-      <pubDate>Sat, 17 Feb 2024 17:09:08 -0500</pubDate>
-      <guid>https://w314159.github.io/selene/tools/index.html</guid>
-      <description>一些有用的工具</description>
-    </item>
-    <item>
-      <title>普罗旺斯故事</title>
-      <link>https://w314159.github.io/selene/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF%E6%95%85%E4%BA%8B/index.html</link>
-      <pubDate>Sat, 02 Mar 2024 21:05:23 -0500</pubDate>
-      <guid>https://w314159.github.io/selene/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF%E6%95%85%E4%BA%8B/index.html</guid>
-      <description>我写过一个系列的普罗旺斯故事，其中包含美术史、天文考证、地理考证、文学和流行文化，很难归于一类，索性单独开一个系列。</description>
     </item>
     <item>
       <title>文学世界</title>
@@ -44,16 +23,38 @@
       <description>想过要不本栏目干脆改叫“文学侦探”算了？不过后续还是有一些无关侦探、无关地理的纯文学内容，那就还是叫“文学世界”吧。我会慢慢把散在各处的一些旧作（并不多，十来篇）集中到这里。以后有新作，也优先放在这里。</description>
     </item>
     <item>
+      <title>普罗旺斯故事</title>
+      <link>https://w314159.github.io/selene/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF%E6%95%85%E4%BA%8B/index.html</link>
+      <pubDate>Sat, 02 Mar 2024 21:05:23 -0500</pubDate>
+      <guid>https://w314159.github.io/selene/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF%E6%95%85%E4%BA%8B/index.html</guid>
+      <description>我写过一个系列的普罗旺斯故事，其中包含美术史、天文考证、地理考证、文学和流行文化，很难归于一类，索性单独开一个系列。</description>
+    </item>
+    <item>
       <title>网夜星光</title>
-      <link>https://w314159.github.io/selene/stars/index.html</link>
+      <link>https://w314159.github.io/selene/%E7%BD%91%E5%A4%9C%E6%98%9F%E5%85%89/index.html</link>
       <pubDate>Wed, 07 Feb 2024 22:21:23 -0500</pubDate>
-      <guid>https://w314159.github.io/selene/stars/index.html</guid>
+      <guid>https://w314159.github.io/selene/%E7%BD%91%E5%A4%9C%E6%98%9F%E5%85%89/index.html</guid>
       <description>夜 空 里 那 些 既 远 又 近 的 星 星
 月夜 Moonlight
 木遥的窗子
 Matrix67: The Aha Moments
 卢昌海个人主页
 阮一峰的网络日志</description>
+    </item>
+    <item>
+      <title>旧文</title>
+      <link>https://w314159.github.io/selene/%E6%97%A7%E6%96%87/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://w314159.github.io/selene/%E6%97%A7%E6%96%87/index.html</guid>
+      <description>历年来，在MSN、太傻、天之文、wordpress、微博、微信、推特多少不同地留有各种图文。其中还能找到的并有保留价值的，我会把它们逐渐集中到这里，分门别类，必要时修正、加注、改写，或扩写、重写。在我关注的方向上，会继续生长发展。
+这是2009-2014写的一个博客：生命的喷泉</description>
+    </item>
+    <item>
+      <title>工具</title>
+      <link>https://w314159.github.io/selene/%E5%B7%A5%E5%85%B7/index.html</link>
+      <pubDate>Sat, 17 Feb 2024 17:09:08 -0500</pubDate>
+      <guid>https://w314159.github.io/selene/%E5%B7%A5%E5%85%B7/index.html</guid>
+      <description>一些有用的工具</description>
     </item>
   </channel>
 </rss>
