@@ -152,20 +152,20 @@ var relearn_search_index = [
     "uri": "/selene/%E6%96%87%E5%AD%A6%E4%B8%96%E7%95%8C/%E5%B0%8F%E5%B7%9D%E7%B3%B8/index.html"
   },
   {
-    "breadcrumb": "多媒体之窗",
+    "breadcrumb": "视听之娱",
     "content": "华盛顿潮汐湖边的一圈三千多棵樱花树是日本国的赠品，有些已经传了几代。每年早春的樱花盛放极为壮观，每每引来周边和远方如云的游客，江湖俗称“樱花大会”。我去过多次，有晴天、有雨天，有春寒料峭赶上开头的、有赶上尾巴充分体会“物哀”的，2009年3月31日这次独行，是赶上樱花极盛的。当时发的博文已不存在，现在尽力恢复原貌重建了一个：华盛顿樱花行\n",
     "description": "",
     "tags": null,
     "title": "华盛顿樱花行",
-    "uri": "/selene/%E5%A4%9A%E5%AA%92%E4%BD%93%E4%B9%8B%E7%AA%97/%E5%8D%8E%E7%9B%9B%E9%A1%BF%E6%A8%B1%E8%8A%B1%E8%A1%8C/index.html"
+    "uri": "/selene/%E8%A7%86%E5%90%AC%E4%B9%8B%E5%A8%B1/%E5%8D%8E%E7%9B%9B%E9%A1%BF%E6%A8%B1%E8%8A%B1%E8%A1%8C/index.html"
   },
   {
     "breadcrumb": "",
     "content": "一些新老多媒体内容，会从这里链接到老的wordpress博客\n",
     "description": "",
     "tags": null,
-    "title": "多媒体之窗",
-    "uri": "/selene/%E5%A4%9A%E5%AA%92%E4%BD%93%E4%B9%8B%E7%AA%97/index.html"
+    "title": "视听之娱",
+    "uri": "/selene/%E8%A7%86%E5%90%AC%E4%B9%8B%E5%A8%B1/index.html"
   },
   {
     "breadcrumb": "",

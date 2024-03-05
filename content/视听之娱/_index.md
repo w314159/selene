@@ -1,5 +1,5 @@
 +++
-title = '多媒体之窗'
+title = '视听之娱'
 date = 2024-03-04T16:31:46-05:00
 weight = 97
 collapsibleMenu = true
