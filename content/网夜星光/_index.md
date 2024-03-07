@@ -8,7 +8,7 @@ alwaysopen = false
 
 夜 空 里 那 些 既 远 又 近 的 星 星
 
-<a href="https://ellelang.github.io/moonlight/" target="_blank" rel="noopener noreferrer">月夜 Moonlight</a>
+<a href="https://moonlt.site/" target="_blank" rel="noopener noreferrer">月夜 Moonlight</a>
 
 <a href="https://blog.farmostwood.net/" target="_blank" rel="noopener noreferrer">木遥的窗子</a>
 
