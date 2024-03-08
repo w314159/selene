@@ -1,7 +1,7 @@
 var relearn_search_index = [
   {
     "breadcrumb": "",
-    "content": "Everything about astronomy\n",
+    "content": "Everything about astronomy。待整理：\n细胞里的大宇宙\n宇宙中的真空\nAO望远镜原理中的细节\nL4/L5点稳定性中的细节\n行星状星云集锦（计算、对比）\n星灭暗纪元\n2021年6月12日超长流星初步测算\n木卫失踪\n土星光环为什么消失三次\n所谓五万年一遇的彗星\n螺旋形的轨道夸张了\n3D立体动画：星座是什么\n星座一开口就知有没有\n红超巨星铁核坍缩\n超新星的两种分身鬼影\n广义相对论引力时间膨胀效应的一个常见误读 （引力势）\n没有中心的膨胀\n马赫原理\n看穿旋涡星系徐遐生\n3C273私家望远镜能看到的最远天体\n双筒望远镜连环画画法\n不可思议的超级暗夜\n壬戌之秋七月既望大文豪的气场\n那颗没有名字的亮星：四辅增一\n",
     "description": "",
     "tags": null,
     "title": "天文",
@@ -73,15 +73,15 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "天文",
-    "content": "About solar and lunar eclipse\n",
+    "content": "日食、月食、凌日、掩星。待整理：\n1997日全食记\n2017日全食记\n金星凌日记\n日全环食与影锥顶点的珍珠食\n关于月环食（计算）\n半影月食是什么\n日食发生时太空看月影为什么有点儿发红？（太阳的邻边昏暗现象）\n日全食比日偏食好看一万倍（一些计算）\n",
     "description": "",
     "tags": null,
-    "title": "日月食",
-    "uri": "/selene/%E5%A4%A9%E6%96%87/%E6%97%A5%E6%9C%88%E9%A3%9F/index.html"
+    "title": "交食",
+    "uri": "/selene/%E5%A4%A9%E6%96%87/%E4%BA%A4%E9%A3%9F/index.html"
   },
   {
     "breadcrumb": "天文",
-    "content": "尤其是一些跟农历相关的知识\n",
+    "content": "尤其是一些跟农历相关的知识。待整理：\n汤若望的历法遗产，定气注历。\n汤若望的其他遗产\n郭守敬：景符、十进制小数\n冬至与岁实测定及陷阱\n有个性的王锡阐\n康熙与数学天文\n",
     "description": "",
     "tags": null,
     "title": "历法",
@@ -209,11 +209,19 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "天文",
-    "content": "About James Webb Space Telescope (JWST)\n",
+    "content": "About James Webb Space Telescope (JWST)。待整理：\nJWST为什么不给地球拍一张？\nJWST数据量与NASA深空网\n船底座星云图片的精确位置\nJWST展开、冷却、调试流程\n",
     "description": "",
     "tags": null,
     "title": "JWST",
     "uri": "/selene/%E5%A4%A9%E6%96%87/jwst/index.html"
+  },
+  {
+    "breadcrumb": "天文",
+    "content": "航天偏于天文、空间探测方向。待整理：\n“欧阳坑”始末\n地月激光测距系列\nGPS与相对论的关系\n查考学习：登月疑云\nFoxTV 2001年Conspiracy Theory: Did We Land on the Moon?\n阿波罗登月照片里为什么没有星星（实测）\n为什么太空里没有大气还是拍不到星星（动态范围从头计算）\n白天看星星\n白天用肉眼看天狼星\n为什么宇航员在月球上竟然没有看到星星和地球\n兜圈子的地球和摇头晃脑的月球（天平动）\n月船三号轨道能量\n宇航员回到地球原来并不一定需要人抬着\n阿波罗登月实况还原系列\n月球上的一昼夜\n阿波罗16号月球车飞尘抛物线簇\nLRO拍A11\n太阳同步轨道\n阿波罗11号登月宇航员回地球就能走路\n导航计算机结绳记事\n伦敦看卫星：天有多大\n家用天文望远镜里的国际空间站\n远去的飞机为什么朝下飞：天球投影\nDART迎头硬撞小行星了吗\n天文胸怀：the pale blue dot\n",
+    "description": "",
+    "tags": null,
+    "title": "空间探测",
+    "uri": "/selene/%E5%A4%A9%E6%96%87/%E7%A9%BA%E9%97%B4%E6%8E%A2%E6%B5%8B/index.html"
   },
   {
     "breadcrumb": "",
@@ -360,12 +368,12 @@ var relearn_search_index = [
     "uri": "/selene/%E5%A4%A9%E6%96%87/jwst/jwst_image_test/index.html"
   },
   {
-    "breadcrumb": "天文 \u003e 日月食",
+    "breadcrumb": "天文 \u003e 交食",
     "content": "一些有用的日月食数据网站：\n2024年4月8日的美国日全食\nEclipseWise - Solar and Lunar Eclipses\nSolar Eclipses - Interactive Google Maps - Xavier Jubier (free.fr)\nFive Millennium Canon of Solar Eclipses: -1999 to +3000 - Xavier Jubier - Fred Espenak - Jean Meeus (free.fr)\nEclipses Home | Eclipses – NASA Solar System Exploration\nEclipses and Transits | NASA\nFive Millennium Canon of Lunar Eclipses: -1999 to +3000 (nasa.gov)\nNASA - Five Millennium Catalog of Solar Eclipses\n2023-04-20 日全环食\n",
     "description": "",
     "tags": null,
     "title": "日月食信息",
-    "uri": "/selene/%E5%A4%A9%E6%96%87/%E6%97%A5%E6%9C%88%E9%A3%9F/eclipse_info/index.html"
+    "uri": "/selene/%E5%A4%A9%E6%96%87/%E4%BA%A4%E9%A3%9F/eclipse_info/index.html"
   },
   {
     "breadcrumb": "",

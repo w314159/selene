@@ -6,28 +6,78 @@
     <description>Recent content in 天文 on SEA OF TIME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Mar 2024 11:03:35 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 16:24:16 -0500</lastBuildDate>
     <atom:link href="https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>日月食</title>
-      <link>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/%E6%97%A5%E6%9C%88%E9%A3%9F/index.html</link>
+      <title>交食</title>
+      <link>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/%E4%BA%A4%E9%A3%9F/index.html</link>
       <pubDate>Wed, 07 Feb 2024 22:16:47 -0500</pubDate>
-      <guid>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/%E6%97%A5%E6%9C%88%E9%A3%9F/index.html</guid>
-      <description>About solar and lunar eclipse</description>
+      <guid>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/%E4%BA%A4%E9%A3%9F/index.html</guid>
+      <description>日食、月食、凌日、掩星。待整理：
+1997日全食记
+2017日全食记
+金星凌日记
+日全环食与影锥顶点的珍珠食
+关于月环食（计算）
+半影月食是什么
+日食发生时太空看月影为什么有点儿发红？（太阳的邻边昏暗现象）
+日全食比日偏食好看一万倍（一些计算）</description>
     </item>
     <item>
       <title>历法</title>
       <link>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/%E5%8E%86%E6%B3%95/index.html</link>
       <pubDate>Fri, 08 Mar 2024 10:56:01 -0500</pubDate>
       <guid>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/%E5%8E%86%E6%B3%95/index.html</guid>
-      <description>尤其是一些跟农历相关的知识</description>
+      <description>尤其是一些跟农历相关的知识。待整理：
+汤若望的历法遗产，定气注历。
+汤若望的其他遗产
+郭守敬：景符、十进制小数
+冬至与岁实测定及陷阱
+有个性的王锡阐
+康熙与数学天文</description>
     </item>
     <item>
       <title>JWST</title>
       <link>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/jwst/index.html</link>
       <pubDate>Wed, 07 Feb 2024 22:16:59 -0500</pubDate>
       <guid>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/jwst/index.html</guid>
-      <description>About James Webb Space Telescope (JWST)</description>
+      <description>About James Webb Space Telescope (JWST)。待整理：
+JWST为什么不给地球拍一张？
+JWST数据量与NASA深空网
+船底座星云图片的精确位置
+JWST展开、冷却、调试流程</description>
+    </item>
+    <item>
+      <title>空间探测</title>
+      <link>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/%E7%A9%BA%E9%97%B4%E6%8E%A2%E6%B5%8B/index.html</link>
+      <pubDate>Fri, 08 Mar 2024 16:24:16 -0500</pubDate>
+      <guid>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/%E7%A9%BA%E9%97%B4%E6%8E%A2%E6%B5%8B/index.html</guid>
+      <description>航天偏于天文、空间探测方向。待整理：
+“欧阳坑”始末
+地月激光测距系列
+GPS与相对论的关系
+查考学习：登月疑云
+FoxTV 2001年Conspiracy Theory: Did We Land on the Moon?
+阿波罗登月照片里为什么没有星星（实测）
+为什么太空里没有大气还是拍不到星星（动态范围从头计算）
+白天看星星
+白天用肉眼看天狼星
+为什么宇航员在月球上竟然没有看到星星和地球
+兜圈子的地球和摇头晃脑的月球（天平动）
+月船三号轨道能量
+宇航员回到地球原来并不一定需要人抬着
+阿波罗登月实况还原系列
+月球上的一昼夜
+阿波罗16号月球车飞尘抛物线簇
+LRO拍A11
+太阳同步轨道
+阿波罗11号登月宇航员回地球就能走路
+导航计算机结绳记事
+伦敦看卫星：天有多大
+家用天文望远镜里的国际空间站
+远去的飞机为什么朝下飞：天球投影
+DART迎头硬撞小行星了吗
+天文胸怀：the pale blue dot</description>
     </item>
   </channel>
 </rss>
