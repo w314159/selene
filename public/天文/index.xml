@@ -6,21 +6,28 @@
     <description>Recent content in 天文 on SEA OF TIME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Feb 2024 22:21:34 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 11:03:35 -0500</lastBuildDate>
     <atom:link href="https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日月食</title>
+      <link>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/%E6%97%A5%E6%9C%88%E9%A3%9F/index.html</link>
+      <pubDate>Wed, 07 Feb 2024 22:16:47 -0500</pubDate>
+      <guid>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/%E6%97%A5%E6%9C%88%E9%A3%9F/index.html</guid>
+      <description>About solar and lunar eclipse</description>
+    </item>
+    <item>
+      <title>历法</title>
+      <link>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/%E5%8E%86%E6%B3%95/index.html</link>
+      <pubDate>Fri, 08 Mar 2024 10:56:01 -0500</pubDate>
+      <guid>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/%E5%8E%86%E6%B3%95/index.html</guid>
+      <description>尤其是一些跟农历相关的知识</description>
+    </item>
     <item>
       <title>JWST</title>
       <link>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/jwst/index.html</link>
       <pubDate>Wed, 07 Feb 2024 22:16:59 -0500</pubDate>
       <guid>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/jwst/index.html</guid>
       <description>About James Webb Space Telescope (JWST)</description>
-    </item>
-    <item>
-      <title>Eclipse</title>
-      <link>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/eclipse/index.html</link>
-      <pubDate>Wed, 07 Feb 2024 22:16:47 -0500</pubDate>
-      <guid>https://w314159.github.io/selene/%E5%A4%A9%E6%96%87/eclipse/index.html</guid>
-      <description>About solar and lunar eclipse</description>
     </item>
   </channel>
 </rss>
