@@ -1,8 +1,9 @@
 +++
 title = "天文"
-weight = 1
+date = 2024-02-08T04:19:00-05:00
 collapsibleMenu = true
 alwaysopen = false
+weight = 3
 +++
 
 Everything about astronomy。待整理：

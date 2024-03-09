@@ -1,8 +1,8 @@
 +++
 title = "工具"
-weight = 100
 collapsibleMenu = true
 alwaysopen = false
+weight = 32
 +++
 
 一些有用的工具

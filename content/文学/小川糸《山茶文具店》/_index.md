@@ -1,5 +1,5 @@
 +++
-title = '小川糸'
+title = '小川糸《山茶文具店》'
 date = 2024-02-28T16:58:42-05:00
 weight = 30
 collapsibleMenu = true
