@@ -81,7 +81,7 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "天文 \u003e 交食",
-    "content": "一些有用的日月食数据网站：\n2024年4月8日的美国日全食 2024年4月8日的美国日全食天气预测\nhttps://www.weather.gov/iln/20240408_Eclipse\nEclipseWise - Solar and Lunar Eclipses\nSolar Eclipses - Interactive Google Maps - Xavier Jubier (free.fr)\nFive Millennium Canon of Solar Eclipses: -1999 to +3000 - Xavier Jubier - Fred Espenak - Jean Meeus (free.fr)\nEclipses Home | Eclipses – NASA Solar System Exploration\nEclipses and Transits | NASA\nFive Millennium Canon of Lunar Eclipses: -1999 to +3000 (nasa.gov)\nNASA - Five Millennium Catalog of Solar Eclipses\n2023-04-20 日全环食\n",
+    "content": "一些有用的日月食数据网站：\n2024年4月8日的美国日全食\n2024年4月8日的美国日全食天气预测\nhttps://www.weather.gov/iln/20240408_Eclipse\nEclipseWise - Solar and Lunar Eclipses\nSolar Eclipses - Interactive Google Maps - Xavier Jubier (free.fr)\nFive Millennium Canon of Solar Eclipses: -1999 to +3000 - Xavier Jubier - Fred Espenak - Jean Meeus (free.fr)\nEclipses Home | Eclipses – NASA Solar System Exploration\nEclipses and Transits | NASA\nFive Millennium Canon of Lunar Eclipses: -1999 to +3000 (nasa.gov)\nNASA - Five Millennium Catalog of Solar Eclipses\n2023-04-20 日全环食\n",
     "description": "",
     "tags": null,
     "title": "日月食信息",
