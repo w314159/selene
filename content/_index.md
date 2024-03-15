@@ -1,13 +1,43 @@
 ### SEA OF TIME
 
-同船度此生（泰戈尔《飞鸟集》242）
+同船度此生 / 横越时间海 / 在另一个世界的晨曦中（泰戈尔《飞鸟集》242 / 244 / 291）
 
-> This life is the crossing of a sea, where we meet in the same narrow ship. In death we reach the shore and go to our different worlds. 
-
-横越时间海（泰戈尔《飞鸟集》244）
-
-> My heart is homesick today for the one sweet hour across the sea of time.
-
-在另一个世界的晨曦中（泰戈尔《飞鸟集》291）
-
+> This life is the crossing of a sea, where we meet in the same narrow ship. In death we reach the shore and go to our different worlds. <br>
+> My heart is homesick today for the one sweet hour across the sea of time.<br>
 > Some day I shall sing to thee in the sunrise of some other world, "I have seen thee before in the light of the earth, in the love of man."
+
+新增：<br>
+2024-03-15 天文/空间探测/2007年嫦娥月照事件始末<br>
+2024-03-12 天文/交食/太空看月影也发红<br>
+2024-03-11 天文/交食/动人心魄的瞬间<br>
+2024-03-10 天文/交食/1997日全食记<br>
+2024-03-09 修改了--> 随感录/高士淡于分别心<br>
+2024-03-09 怀旧集/金星凌日记<br>
+2024-03-08 天文/历法/农历漫谈<br>
+2024-03-07 文学/钱锺书《围城》/《围城》里的苏州评弹<br>
+2024-03-07 文学/钱锺书《围城》/从上海到三闾大学<br>
+2024-03-05 视听之娱/融入天空的大楼<br>
+2024-03-04 随感录/女儿国主<br>
+2024-03-04 随感录/高士淡于分别心<br>
+2024-03-04 随感录/心中的竹林<br>
+2024-03-04 视听之娱/华盛顿樱花行<br>
+2024-03-04 怀旧集/收音机怀旧之无线电<br>
+2024-03-04 怀旧集/收音机怀旧之敌台<br>
+2024-03-04 怀旧集/收音机怀旧之评书<br>
+2024-03-04 修改了--> 文学/庞德《在地铁站》的翻译问题<br>
+2024-03-02 普罗旺斯故事/山居岁月【未完成】<br>
+2024-03-02 普罗旺斯故事/另一个牧羊人<br>
+2024-03-02 普罗旺斯故事/少男少女看星星<br>
+2024-03-02 普罗旺斯故事/梵高看星星<br>
+2024-03-02 文学/泰戈尔《飞鸟集》/叶绿叶红<br>
+2024-03-02 文学/泰戈尔《飞鸟集》/大地的泪点<br>
+2024-03-02 文学/泰戈尔《飞鸟集》/风是一个诗人<br>
+2024-03-02 文学/泰戈尔《飞鸟集》/生命的喷泉<br>
+2024-03-01 文学/木心/木心故居考：杰克逊高地<br>
+2024-03-01 文学/木心/木心故居考：真假琼美卡<br>
+2024-03-01 文学/庞德《在地铁站》的翻译问题<br>
+2024-02-29 文学/木心/还原木心聆听梅纽因<br>
+2024-02-29 文学/小川糸《山茶文具店》/《山茶文具店》杂记<br>
+2024-02-28 文学/小川糸《山茶文具店》/《山茶文具店》考证<br>
+
+
