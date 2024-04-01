@@ -7,6 +7,7 @@
 > Some day I shall sing to thee in the sunrise of some other world, "I have seen thee before in the light of the earth, in the love of man."
 
 新增：<br>
+2024-04-01 怀旧集/大雁塔怀旧<br>
 2024-03-16 文学/周梦蝶/周梦蝶先生年表<br>
 2024-03-15 天文/空间探测/2007年嫦娥月照事件始末<br>
 2024-03-12 天文/交食/太空看月影也发红<br>
