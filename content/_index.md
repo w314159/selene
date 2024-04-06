@@ -7,6 +7,7 @@
 > Some day I shall sing to thee in the sunrise of some other world, "I have seen thee before in the light of the earth, in the love of man."
 
 新增：<br>
+2024-04-05 天文/交食/2008日全食记<br>
 2024-04-04 文学/王鼎钧/王鼎钧回忆录四部曲三联版删节情况<br>
 2024-04-01 怀旧集/大雁塔怀旧<br>
 2024-03-16 文学/周梦蝶/周梦蝶先生年表<br>
